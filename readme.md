@@ -4,10 +4,10 @@
 Developer, sysadmin, and IT enthusiast with a garden shed full of servers and networking equipment.
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pottsb&layout=compact&theme=dark)
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pottsb&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pottsb&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pottsb&layout=compact&theme=dark" width="48%" />
+</p>
 
 
 ## 🧰 Tech Stack
