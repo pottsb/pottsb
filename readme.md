@@ -12,17 +12,17 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 
 ## 🧰 Tech Stack
 
+![Python](https://img.shields.io/badge/-Python-000?\&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-000?\&logo=python)
-![Java](https://img.shields.io/badge/-Java-000?\&logo=openjdk)
+![PHP](https://img.shields.io/badge/-PHP-000?\&logo=php)
+![Bash](https://img.shields.io/badge/-Bash-000?\&logo=gnubash)
+![PowerShell](https://img.shields.io/badge/-PowerShell-000?\&logo=powershell)
 ![C](https://img.shields.io/badge/-C-000?\&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000?\&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-000?\&logo=csharp)
-![PHP](https://img.shields.io/badge/-PHP-000?\&logo=php)
+![Java](https://img.shields.io/badge/-Java-000?\&logo=openjdk)
 ![Lua](https://img.shields.io/badge/-Lua-000?\&logo=lua)
-![Bash](https://img.shields.io/badge/-Bash-000?\&logo=gnubash)
-![PowerShell](https://img.shields.io/badge/-PowerShell-000?\&logo=powershell)
 
 ![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?\&logo=githubactions)
