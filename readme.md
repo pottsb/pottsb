@@ -5,8 +5,8 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pottsb&show_icons=true&theme=dark" width="48%" height="185"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pottsb&layout=compact&theme=dark" width="48%" height="185"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pottsb&show_icons=true&theme=dark" width="48%" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pottsb&layout=compact&theme=dark" width="48%" height="175"/>
 </p>
 
 
