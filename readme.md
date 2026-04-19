@@ -12,8 +12,6 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 
 ## 🧰 Tech Stack
 
-### 💻 Languages & Scripting
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?\&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?\&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-000?\&logo=python)
@@ -26,8 +24,6 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 ![Bash](https://img.shields.io/badge/-Bash-000?\&logo=gnubash)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-000?\&logo=powershell)
 
-### ⚙️ Dev, Data & Tools
-
 ![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?\&logo=githubactions)
 ![Docker](https://img.shields.io/badge/-Docker-000?\&logo=docker)
@@ -39,8 +35,6 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 ![InfluxDB](https://img.shields.io/badge/-InfluxDB-000?\&logo=influxdb)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?\&logo=prisma)
 ![MQTT](https://img.shields.io/badge/-MQTT-000?\&logo=eclipse-mosquitto)
-
-### 🖥️ Infrastructure & Systems
 
 ![Linux](https://img.shields.io/badge/-Linux-000?\&logo=linux)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-000?\&logo=windows)
