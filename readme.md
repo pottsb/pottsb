@@ -35,7 +35,7 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 ![Prisma](https://img.shields.io/badge/-Prisma-000?\&logo=prisma)
 ![MQTT](https://img.shields.io/badge/-MQTT-000?\&logo=eclipse-mosquitto)
 
-![Linux](https://img.shields.io/badge/-Linux-000?\&logo=linux)
+![Ubuntu Server](https://img.shields.io/badge/-Ubuntu_Server-000?\&logo=ubuntu)
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-000?\&logo=windows)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000?\&logo=proxmox)
 ![VMware](https://img.shields.io/badge/-VMware-000?\&logo=vmware)
