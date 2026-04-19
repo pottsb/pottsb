@@ -9,7 +9,6 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pottsb&layout=compact&theme=dark&hide=jupyternotebook&langs_count=8&card_width=400" width="48%" height="165"/>
 </p>
 
-
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?\&logo=python)
@@ -40,12 +39,6 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-000?\&logo=windows)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000?\&logo=proxmox)
 ![VMware](https://img.shields.io/badge/-VMware-000?\&logo=vmware)
-![Networking](https://img.shields.io/badge/-Networking-000?\&logo=cisco)
-![Firewalls](https://img.shields.io/badge/-Firewalls-000?\&logo=fortinet)
-![VPN](https://img.shields.io/badge/-VPN-000?\&logo=openvpn)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?\&logo=grafana)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-000?\&logo=zabbix)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-000?\&logo=wazuh)
-![Active Directory](https://img.shields.io/badge/-Active_Directory-000?\&logo=microsoft)
-![SCCM](https://img.shields.io/badge/-SCCM-000?\&logo=microsoft)
-![MDM](https://img.shields.io/badge/-MDM-000?\&logo=microsoftintune)
