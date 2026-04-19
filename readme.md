@@ -25,7 +25,6 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 
 ![Git](https://img.shields.io/badge/-Git-000?\&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?\&logo=githubactions)
-![Docker](https://img.shields.io/badge/-Docker-000?\&logo=docker)
 ![Ansible](https://img.shields.io/badge/-Ansible-000?\&logo=ansible)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?\&logo=terraform)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?\&logo=mysql)
@@ -39,6 +38,7 @@ Developer, sysadmin, and IT enthusiast with a garden shed full of servers and ne
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-000?\&logo=windows)
 ![Proxmox](https://img.shields.io/badge/-Proxmox-000?\&logo=proxmox)
 ![VMware](https://img.shields.io/badge/-VMware-000?\&logo=vmware)
+![Docker](https://img.shields.io/badge/-Docker-000?\&logo=docker)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?\&logo=grafana)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-000?\&logo=zabbix)
 ![Wazuh](https://img.shields.io/badge/-Wazuh-000?\&logo=wazuh)
