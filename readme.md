@@ -3,12 +3,6 @@
 ## 👨‍💻 About Me
 Developer, sysadmin, and IT enthusiast with a garden shed full of servers and networking equipment.
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pottsb&show_icons=true&theme=dark" width="48%" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pottsb&layout=compact&theme=dark&hide=jupyternotebook&langs_count=8&card_width=400" width="48%" height="165"/>
-</p>
-
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?\&logo=python)
